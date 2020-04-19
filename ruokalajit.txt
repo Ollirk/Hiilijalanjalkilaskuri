@@ -1,0 +1,17 @@
+Viini;0.25
+Olut ja mehu;0.1
+Tee;0.05
+Kahvi;0.1
+Viljatuotteet;0.1
+Hedelmät;0.1
+Vihannekset;0.1
+Tofu;0.2
+Muut maitotuotteet;0.25
+Maito;0.18
+Emmental juusto;1.3
+Kananmuna;0.25
+Kala;0.3
+Siipikarja;0.38
+Porsaanliha;0.59
+Naudanliha;1.9
+Muut;0.38
